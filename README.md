@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🤓 About me 
-My name is Raphael, I'm 27 years old and I live in Parnaíba, Piauí, Brazil. I am a Dental Surgeon graduated from the State University of Piauí, but I have been working with programming since I was 17 years old. I am currently a Software Engineering student at UniCesumar.
+My name is Raphael, I'm 29 years old and I live in Parnaíba, Piauí, Brazil. I am a Dental Surgeon graduated from the State University of Piauí, but I have been working with programming since I was 17 years old. I am currently a Software Engineering student at UniCesumar.
 
 ### 🚀 Skills
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
