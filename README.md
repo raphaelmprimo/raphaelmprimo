@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 ### 🤓 About me 
-My name is Raphael, I'm 29 years old and I live in Parnaíba, Piauí, Brazil. I am a Dental Surgeon graduated from the State University of Piauí, but I have been working with programming since I was 17 years old. I am currently a Software Engineering student at UniCesumar.
+Passionate about technology and innovation, I hold a degree in Dentistry from the Universidade Estadual do Piauí, but I have been working as a software developer since I was 17. Currently, I am studying Software Engineering and focus on web development, aiming to create efficient solutions and integrations between systems.
+
+I have experience with technologies such as PHP, Laravel, CodeIgniter, Node.js, relational and non-relational databases, Vue.js, among others. I am always eager to learn new tools and expand my technical repertoire according to project needs.
+
+I work both on the back-end and front-end, contributing to the creation of corporate websites, maintenance, and development of new features in ERP systems and SaaS platforms for e-commerce stores.
+Additionally, I have experience in related areas such as data and infrastructure, which broadens my systemic understanding of how applications function.
+
+This journey has given me a comprehensive understanding of the development cycle, from conception to delivery of scalable solutions.
 
 ### 🚀 Skills
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
